@@ -1,7 +1,16 @@
-# EazyPeazy
+# EazyPeazy- Managing everthing like a pro!!
 # Problem 
+When I was in my first year of college, I was fascinated by the number of societies, events and opportunities that were available to us at the University. I often missed a lot of important information regarding events and opportunities. Even my peers and seniors face this issue and missed a lot of important stuff which is necessary for the overall development of an individual. So, I thought of developing a mobile application which can provide information regarding all the societies, events, hackathons and other opportunities in one place. At the same time, I ensured to provide a reminder feature which can remind us about the events and related stuff.
 
 # Solution
+EazyPeazy is a mobile application build for the students of IGDTUW to help them in managing societies, events and other stuff efficiently. Some features of Eazy Peazy are:
+1. It provides information about all the societies at IGDTUW under various categories like technical societies, cultural societies and so on. Links to the website and various social media handles is also provided so that the students can stay connected on these platforms as well.
+2. Events have been listed under various categories like University events, workshops and hackathons so that the students can explore whatever field they are interested in.
+3. Internship and open-source opportunities have been linsted on the home page along with the link to register for the same.
+4. Reminders section allows students to add reminders for the events they want to attend so that they don't miss on the event as a result of forgetting about the same.
+5. The vision of the app is also clearly written down alsong with the details of the founder of the app.
+6. In order to build a strong community of like-munded IGDTUWites, links to discord, telegram and slack have been provided which the students can join, have fun, learn new stuffs and connect with peers and seniors.
+7. At last, there is always a scope of improvement and feedback from the users is the best way to improve on any product. There is a feedback section where the students can go and fill out the feedback form which will motivate me to take EazyPeazy to the next level.
 # Tech Stacks used
 1.Front end: Flutter framework using dart language
 
