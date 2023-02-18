@@ -1,4 +1,4 @@
-# EazyPeazy- Managing everthing like a pro!!
+# EazyPeazy- Manage everthing like a pro!!
 # Problem 
 When I was in my first year of college, I was fascinated by the number of societies, events and opportunities that were available to us at the University. I often missed a lot of important information regarding events and opportunities. Even my peers and seniors face this issue and missed a lot of important stuff which is necessary for the overall development of an individual. So, I thought of developing a mobile application which can provide information regarding all the societies, events, hackathons and other opportunities in one place. At the same time, I ensured to provide a reminder feature which can remind us about the events and related stuff.
 
