@@ -232,7 +232,10 @@ class _AddReminderPageState extends State<AddReminderPage> {
                         Navigator.pushNamed(context, 'reminders');
                       }),
                 ],
-              )
+              ),
+              SizedBox(
+                height: getProportionateScreenHeight(40),
+              ),
             ],
           ),
         ),

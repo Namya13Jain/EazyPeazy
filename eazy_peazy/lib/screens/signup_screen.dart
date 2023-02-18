@@ -39,7 +39,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
           icon: const Icon(Icons.arrow_back_ios_new_sharp),
           color: Colors.white,
           onPressed: () {
-            Navigator.pushNamed(context, 'login');
+            Navigator.pushNamed(context, 'home_screen');
           },
         ),
       ),
